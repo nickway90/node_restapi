@@ -10,6 +10,8 @@ Rest Api using nodejs
 
 ## How to run
 ```
+  # in project directory
+  $ npm install
   $ npm run start
 ```
 
