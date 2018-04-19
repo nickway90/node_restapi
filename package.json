@@ -1,0 +1,26 @@
+{
+  "name": "node_restapi",
+  "version": "1.0.0",
+  "description": "restapi, api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "api",
+    "restapi"
+  ],
+  "author": "gsk967",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
