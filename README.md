@@ -5,8 +5,7 @@ Rest Api using nodejs
 ### mongodb database
   # [mongodb database](https://docs.mongodb.com/manual/installation/) 
 ### nodejs
-  # [nodejs installtion]
-  (https://nodejs.org/en/download/package-manager/)
+  # [nodejs installtion](https://nodejs.org/en/download/package-manager/)
 
 ## How to run
 ```
